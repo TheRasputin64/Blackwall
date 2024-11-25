@@ -1,0 +1,18 @@
+{
+  "name": "blackwall",
+  "version": "1.0.0",
+  "main": "blackwall.js",
+  "scripts": {
+    "start": "node blackwall.js",
+    "dev": "nodemon blackwall.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The_Rasputin64",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
