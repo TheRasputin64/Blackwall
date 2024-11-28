@@ -10,7 +10,10 @@
   "author": "The_Rasputin64",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.1"
+    "express": "^4.21.1",
+    "express-fileupload": "^1.5.1",
+    "network": "^0.7.0",
+    "socket.io": "^4.8.1"
   },
   "devDependencies": {
     "nodemon": "^3.0.0"
